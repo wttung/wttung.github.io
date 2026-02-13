@@ -9,4 +9,4 @@ redirect_from:
 
 Welcome to my website! I am **Wai Tak** and I am a PhD candidate at University of Mannheim. 
 
-I research about data quality of innovative data collection methods in quantitative social science research. In particular, I focus on understanding non-participation bias in smartphone app-based studies, measurement errors in assessing smartphone skills, and processing errors of digitla behavioral data. To see more of my work in progress, see [Work in Progress](abc) or just reach out to me via [email](waitak.tung@uni-mannheim.de) 
+My research lies at the intersection on methodological and sociological research. Methodologically, I study different dimensions of error sources in innovation data collection in quantitative empirical research (e.g., smartphone app-based data collection, web-tracking data). Substantively, my methodological research is embedded in the area of digital skills inequality in the society. If you are intrigued by my research, you can check my work in progress, or simply reach out to me via [email](waitak.tung@uni-mannheim.de)
