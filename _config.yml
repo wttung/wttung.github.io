@@ -23,7 +23,7 @@ repository               : "wttung/wttung.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_photo.jpg"
+  avatar           : "profile_photo.jpeg"
   name             : "Wai Tak Tung"
   pronouns         : # example: "he/him"  
   bio              : "Social Data Scientist"
