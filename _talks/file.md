@@ -2,7 +2,7 @@
 title: "General Online Research 2024"
 collection:
 type: "Conference presentation"
-permalink: /talks/2012-03-01-talk-1
+permalink:
 venue: "Rheinische Fachhochschule Cologne"
 date: 2024-03-01
 location: "Colonge, Germany"
