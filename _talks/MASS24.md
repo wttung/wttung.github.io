@@ -1,7 +1,7 @@
 ---
 title: "5th MASS Workshop"
-collection: Conference presentation
-type: 
+collection: 
+type: "Conference presentation"
 permalink:
 venue: ""
 date: 2024-03
