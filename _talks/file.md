@@ -1,13 +1,11 @@
 ---
-title: ""
+title: "General Online Research 2024"
 collection: Conference
 type: "Presentation"
 permalink: /talks/2012-03-01-talk-1
-venue: "Somewhere in Colonge"
+venue: "Rheinische Fachhochschule Cologne - Campus Vogelsanger Straße"
 date: 2024-03-01
 location: "Colonge, Germany"
 ---
 
-sdfsdfsdfsdfsdfsdfsdfsdfsdf
-
-This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
+I gave a presentation on my joint work with Alexander Wenz on "Mechanisms of participation in smartphone app data collection: A research synthesis"
