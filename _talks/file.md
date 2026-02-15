@@ -1,9 +1,9 @@
 ---
 title: "General Online Research 2024"
-collection: Conference
-type: "Presentation"
+collection: Conference presentation
+type: "presentation"
 permalink: /talks/2012-03-01-talk-1
-venue: "Rheinische Fachhochschule Cologne - Campus Vogelsanger Straße"
+venue: "Rheinische Fachhochschule Cologne"
 date: 2024-03-01
 location: "Colonge, Germany"
 ---
