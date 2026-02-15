@@ -1,8 +1,8 @@
 ---
 title: "5th MASS Workshop"
-collection: Conference
-type: "conference presentation"
-permalink: /talks/2014-03-01-talk-3
+collection: Conference presentation
+type: 
+permalink:
 venue: ""
 date: 2024-03
 location: "Washington DC, USA"
