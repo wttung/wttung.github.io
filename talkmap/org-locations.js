@@ -5,7 +5,7 @@ var addressPoints = [
     -2.937186
   ],
   [
-    "ESRA25<br />UC San Francisco, Department of Testing; Utrecht,The Netherlands",
+    "ESRA25<br />University of Utrecht; Utrecht,The Netherlands",
     52.0907006,
     5.1215634
   ]
