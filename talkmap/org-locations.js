@@ -1,12 +1,12 @@
 var addressPoints = [
   [
-    "5th MASS Workshop<br />; Washington DC, USA",
-    38.8950368,
-    -77.0365427
+    "Your Talk Title Here<br />MASS 2024; City, Country",
+    43.2616855,
+    -2.937186
   ],
   [
-    "ESRA25<br />University of Utrecht; Utrecht,The Netherlands",
-    52.0907006,
-    5.1215634
+    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
+    37.7879363,
+    -122.4075201
   ]
 ];
