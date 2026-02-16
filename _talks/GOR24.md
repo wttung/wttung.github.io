@@ -4,7 +4,7 @@ collection:
 type: "Conference presentation"
 permalink:
 venue: "Rheinische Fachhochschule Cologne"
-date: 2024-02
+date: 2024-02-28
 location: "Colonge, Germany"
 ---
 
