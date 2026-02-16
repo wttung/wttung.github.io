@@ -4,7 +4,7 @@ collection:
 type: "Conference presentation"
 permalink:
 venue: "University of Utrecht"
-date: 2025-07
+date: 2025-07-15
 location: "Utrecht,The Netherlands"
 ---
 
