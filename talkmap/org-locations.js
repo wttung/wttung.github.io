@@ -5,8 +5,8 @@ var addressPoints = [
     -77.0365427
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "ESRA25<br />University of Utrecht; Utrecht,The Netherlands",
+    52.0907006,
+    5.1215634
   ]
 ];
