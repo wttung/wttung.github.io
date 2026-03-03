@@ -8,4 +8,4 @@ date: 2024-02-28
 location: "Colonge, Germany"
 ---
 
-A short description of your talk.
+I presented my joint work with Alexander Wenz on "Mechanisms of participation in smartphone app data collection: A research synthesis"
