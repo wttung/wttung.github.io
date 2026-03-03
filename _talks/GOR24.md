@@ -1,9 +1,9 @@
 ---
 title: "GOR24"
 collection: Conference presentation
-type:
+type: Conference presentation
 permalink:
-venue: "Colonge Colonge"
+venue: "Colonge"
 date: 2024-02-28
 location: "Colonge, Germany"
 ---
