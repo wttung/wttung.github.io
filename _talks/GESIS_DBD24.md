@@ -1,11 +1,11 @@
 ---
-title: "GOR24"
-collection: Conference presentation
-type: Conference presentation
+title: "GESIS Workshop"
+collection: Workshop presentation
+type: Workshop presentation
 permalink:
-venue: "Colonge"
-date: 2024-02-28
-location: "Colonge, Germany"
+venue: "Mannheim"
+date: 2024-11-20
+location: "Mannheim, Germany"
 ---
 
 I presented my joint work with Alexander Wenz on "Mechanisms of participation in smartphone app data collection: A research synthesis"
