@@ -1,7 +1,7 @@
 ---
 title: "GOR24"
 collection: Conference presentation
-type: Conference presentation
+type: Presentation
 permalink:
 venue: "Colonge"
 date: 2024-02-28
