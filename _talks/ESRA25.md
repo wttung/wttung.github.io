@@ -8,4 +8,6 @@ date: 2025-07-11
 location: "Utrecht,The Netherlands"
 ---
 
-3 presentations, 1 workshops
+I contributed to 3 presentations, and 1 workshop. 
+
+I also received a competitive travel & stay grant (€500) from the ESRA Confernece committee
