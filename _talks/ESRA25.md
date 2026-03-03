@@ -1,7 +1,7 @@
 ---
 title: "ESRA25"
 collection: Conference presentation
-type: Conference presentation + Workshop
+type: Presentation + Workshop
 permalink: 
 venue: "University of Utrecht"
 date: 2025-07-11
