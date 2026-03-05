@@ -1,10 +1,10 @@
 ---
-title: "GESIS Workshop"
+title: "GESIS workshop “User-centered longitudinal collection of digital behavioral and survey data"
 collection: Workshop presentation
 type: Workshop presentation
 permalink:
-venue: "Mannheim"
-date: 2024-11-20
+venue: "B6, Mannheim"
+date: 2024-11-25
 location: "Mannheim, Germany"
 ---
 
