@@ -1,5 +1,5 @@
 ---
-title: "GOR24"
+title: "General Online Research 2024"
 collection: Conference presentation
 type: Presentation
 permalink:
