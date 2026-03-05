@@ -1,8 +1,8 @@
 ---
-title: "GOR26"
+title: "General Online Research 26"
 collection: Conference presentation
 type: Poster
-permalink: https://www.conftool.org/gor26/sessions.php
+permalink:
 venue: "Rheinische Hochschule Cologne"
 date: 2026-02-26
 location: "Colonge,Germany"
