@@ -1,5 +1,5 @@
 ---
-title: "GOR25"
+title: "General Online Research 25"
 collection: Conference presentation
 type: Poster presentation
 permalink:
