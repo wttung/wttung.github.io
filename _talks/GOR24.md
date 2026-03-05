@@ -3,7 +3,7 @@ title: "General Online Research 2024"
 collection: Conference presentation
 type: Presentation
 permalink:
-venue: "Colonge"
+venue: ""
 date: 2024-02-28
 location: "Colonge, Germany"
 ---
