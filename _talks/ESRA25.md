@@ -1,5 +1,5 @@
 ---
-title: "ESRA25"
+title: "11th European Survey Research Assosiation (ESRA) Conference"
 collection: Conference presentation
 type: Presentation + Workshop
 permalink: 
