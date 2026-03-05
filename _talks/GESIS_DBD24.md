@@ -3,7 +3,7 @@ title: "GESIS workshop “User-centered longitudinal collection of digital behav
 collection: Workshop presentation
 type: Workshop presentation
 permalink:
-venue: "B6, Mannheim"
+venue: "B6"
 date: 2024-11-25
 location: "Mannheim, Germany"
 ---
